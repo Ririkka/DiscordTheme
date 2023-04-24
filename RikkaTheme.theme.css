@@ -1,8 +1,6 @@
 /**
  * @name Rikka Theme
  * @Credit to ShadowDevilsAvenged
- * @description Newer Rem theme for my return
- * @version 4.9
  */
 
  .app-2CXKsg {
@@ -352,7 +350,7 @@
 }
 
 .avatar-2e8lTP {
-    border-radius: 6px;
+    border-radius: 50%;
     background-color: #61a5d8;
 }
 
@@ -603,7 +601,7 @@
 }
 
 .avatar-3TrM7c {
-    border-radius: 5px;
+    border-radius: 50%;
 }
 
 .size24-9rrwDS .moreUsers-_v6T-L {
@@ -656,7 +654,7 @@
 }
 
 .wrapper-3Un6-K, .avatar-31d8He {
-    border-radius: 5px !important;
+    border-radius: 50% !important;
 }
 
 .avatar-2jnSDw foreignObject, .noAvatarIcon-3Jqqzy foreignObject {
@@ -676,7 +674,7 @@
 }
 
 .avatar-l9Txm5 {
-    border-radius: 4px;
+    border-radius: 50%;
 }
 
 .attachment-16cAbS, .avatar-l9Txm5, .blob-1uHjdp {
@@ -703,7 +701,7 @@
 }
 
 .iconWrapper-1CGrJp {
-    border-radius: 5px;
+    border-radius: 50%;
     background-color: rgba(97, 164, 216, .72);
     box-shadow: rgba(97, 165, 216, .8) 2px 2px 2px 0px, rgba(97, 165, 216, .8) 2px 2px 2px 0px;
 }
@@ -843,7 +841,7 @@
 .guildIcon-2SUGiq {
     background-color: rgba(0,0,0,.35);
     color: white;
-    border-radius: 4px;
+    border-radius: 50%;
 }
 
 .graphicSecondary-37AA_Y foreignObject, .categoryItemGuildCategory-3mvXlo foreignObject, .stickerCategory-2f6iSo foreignObject {
@@ -1008,7 +1006,7 @@
 }
 
 .executedCommandAvatar-3oOnb1, .replyAvatar-sHd2sU, .replyBadge-LMm_Ic, .threadMessageAccessoryAvatar-17qE_g {
-    border-radius: 4px;
+    border-radius: 50%;
 }
 
 .repliedMessage-3Z6XBG:before {
@@ -1064,7 +1062,7 @@
 }
 
 .icon-28xrhD {
-    border-radius: 7px;
+    border-radius: 50%;
 }
 
 .wrapper-1wwiGV:hover {
@@ -1234,7 +1232,7 @@
 }
 
 .userProfileOuter-1K_BYU {
-    border-radius: 3px;
+    border-radius: 50%;
 }
 
 .userProfileInner-1ngKnf:before {
@@ -1256,7 +1254,7 @@
 }
 
 .userProfileInner-1ngKnf {
-    border-radius: 3px 3px 0 0;
+    border-radius: 50%;
 }
 
 .activity-2EQDZv {
@@ -1355,17 +1353,16 @@
 }
 
 .iconActiveLarge-ac-EDu, .embedAuthorIcon-3pnkS4 {
-    border-radius: 5px;
+    border-radius: 50%;
 }
 
 .mention-3XBnnZ {
-    background-color: rgba(97, 165, 216, .7);
+    background-color: transparent;
     border-radius: 4px;
-    border: 3px outset #61A5D8;
 }
 
 .mention-3XBnnZ:active {
-    background-color: #76AAD9;
+    background-color: transparent;
 }
 
 .mini-2qY9iv .grabber-2GQyvM {
@@ -1403,7 +1400,7 @@
 }
 
 .avatar-3FKimL {
-    border-radius: 4px;
+    border-radius: 50%;
 }
 
 .icon-N9JZb6, .username-vAneIW, .listDefault-2F-w65 .clickable-1ctZ-H:hover .username-vAneIW {
@@ -1438,7 +1435,7 @@
 }
 
 .emptyChannelIcon-1YdEz2 {
-    border-radius: 5px;
+    border-radius: 50%;
     background-color: #61A5D8;
 }
 
@@ -1611,7 +1608,7 @@
 
 .iconWrapper-1sOtkE {
     background-color: #61A5D8;
-    border-radius: 5px;
+    border-radius: 50%;
 }
 
 .icon-3TvnqF {
@@ -1624,7 +1621,7 @@
 }
 
 .icon-2DGsye {
-    border-radius: 5px;
+    border-radius: 50%;
     background-color: #61A5D8;
 }
 
@@ -1784,18 +1781,18 @@
 }
 
 .avatarSpeaking-36V2PN {
-    box-shadow: inset 0 0 0 3px #61A5D8,inset 0 0 0 3px black;
-    border-radius: 4px;
+    box-shadow: inset 0 0 0 2px #61A5D8,inset 0 0 0 2px black;
+    border-radius: 50%;
 }
 
 .avatarSpeaking-2pCGrZ {
-    box-shadow: inset 0 0 0 3px #61A5D8,inset 0 0 0 3px black;
+    box-shadow: inset 0 0 0 2px #61A5D8,inset 0 0 0 2px black;
 }
 
 .circleIconButton-1VxDrg {
     color: #61A5D8;
     background-color: rgba(0,0,0,.2);
-    border-radius: 4px;
+    border-radius: 50%;
 }
 
 .circleIconButton-1VxDrg.selected-2r1Hvo {
@@ -1829,7 +1826,7 @@
 }
 
 .icon-3AqZ2e {
-    border-radius: 4px;
+    border-radius: 50%;
 }
 
 .mentioned-Tre-dv {
@@ -1871,7 +1868,7 @@
 }
 
 .folderIconWrapper-1oRIZr {
-    border-radius: 4px;
+    border-radius: 50%;
     overflow: visible;
 }
 
@@ -1969,7 +1966,7 @@
 }
 
 .voiceAvatar-lRbblo {
-    border-radius: 5px;
+    border-radius: 50%;
 }
 
 .border-2BJQjd.speaking-3RWJBr {
@@ -2605,7 +2602,7 @@
 /* Current Server Icon */
 .icon-2IDTxf {
     background-color: transparent;
-    border: 4px solid transparent;
+    border: 50% solid transparent;
 }
 .container-xwOzwi, .container-2Hi7Km {
     border-radius: 4px;
@@ -3033,8 +3030,8 @@
 .placeholderAvatar-1qAcRZ,
 .placeholderUsername-3iQi_D,
 .memberGroupsPlaceholder-9tqX9V {
-  background-color: #61a5d8;
-  border-radius: 2px;
+  background-color: transparent;
+  border-radius: 50%;
 }
 
 .table-17_dGF {
